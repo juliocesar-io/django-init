@@ -1,4 +1,6 @@
 FROM python:2.7
+MAINTAINER Julio César <j@juliocesar.io>
+
 
 RUN apt-get update && apt-get install -y \
 		mysql-client libmysqlclient-dev \
