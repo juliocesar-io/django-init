@@ -23,9 +23,6 @@ $ docker run --name your_project_name -d my-django-app
 
 ```
 
-Finally, testing in http://container-ip:8000
+Finally, testing in `http://container-ip:8000`.
 
-
-Thas's a good start for development purposes!!
-
-TODO: Dockerfile for production ready.
+TODO:   Dockerfile ready for production.
