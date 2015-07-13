@@ -6,7 +6,7 @@ To create a new django project with this layout use the `--template` flag.
 
 ```bash
 
-$ django-admin.py startproject --template= --extension=py,gitignore project_name
+$ django-admin.py startproject --template=https://github.com/juliocesar-io/django-init/archive/v1.0.zip --extension=py,gitignore your_project_name
 
 ```
 
