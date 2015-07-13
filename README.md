@@ -1,6 +1,6 @@
 # django-init
 
-Fresh project template for django 1.8 projects based on the best practices using Docker.
+Layout template for django 1.8 projects based on the best practices using Docker.
 
 ### Get the template
 
